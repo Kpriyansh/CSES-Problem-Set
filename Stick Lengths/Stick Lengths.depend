@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1606466169 source:d:\codeblok\cses problem set\stick lengths\main.cpp
+	<iostream>
+	<algorithm>
+	<climits>
+	<cmath>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1609936025 source:d:\codeblok\cses problem set\rectangle cutting dp\main.cpp
+	<iostream>
+	<algorithm>
+

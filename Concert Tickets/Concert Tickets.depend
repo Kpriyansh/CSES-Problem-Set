@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1606156814 source:d:\codeblok\cses problem set\concert tickets\main.cpp
+	<iostream>
+	<algorithm>
+	<set>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1609418776 source:d:\codeblok\cses problem set\removing digits dp\main.cpp
+	<iostream>
+	<vector>
+	<climits>
+

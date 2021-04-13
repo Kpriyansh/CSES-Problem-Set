@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1606743494 source:d:\codeblok\my files\traffic lights\main.cpp
+	<iostream>
+	<set>
+

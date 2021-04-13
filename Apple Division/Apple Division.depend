@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1606501044 source:d:\codeblok\cses problem set\apple division\main.cpp
+	<iostream>
+	<cstring>
+

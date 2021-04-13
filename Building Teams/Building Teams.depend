@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1609681605 source:d:\codeblok\cses problem set\building teams\main.cpp
+	<iostream>
+	<vector>
+	<map>
+

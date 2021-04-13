@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1609679561 source:d:\codeblok\cses problem set\message routes\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+	<queue>
+

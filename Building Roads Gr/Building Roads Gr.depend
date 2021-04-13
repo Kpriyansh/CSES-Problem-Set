@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1609656018 source:d:\codeblok\cses problem set\building roads gr\main.cpp
+	<iostream>
+	<vector>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1606575107 source:d:\codeblok\cses problem set\towers\main.cpp
+	<iostream>
+	<algorithm>
+	<vector>
+

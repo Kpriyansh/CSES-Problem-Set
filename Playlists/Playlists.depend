@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1606468340 source:d:\codeblok\cses problem set\playlists\main.cpp
+	<iostream>
+	<algorithm>
+	<climits>
+	<cmath>
+	<vector>
+	<cstring>
+

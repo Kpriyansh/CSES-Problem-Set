@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1609310815 source:d:\codeblok\cses problem set\maximum ways coin change\main.cpp
+	<iostream>
+	<string.h>
+

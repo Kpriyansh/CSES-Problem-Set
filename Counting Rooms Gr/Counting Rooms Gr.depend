@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1609403517 source:d:\codeblok\cses problem set\counting rooms gr\main.cpp
+	<iostream>
+	<vector>
+

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1606501985 source:d:\codeblok\cses problem set\apple division o(n2)\main.cpp
+	<iostream>
+	<algorithm>
+	<climits>
+	<cmath>
+	<vector>
+

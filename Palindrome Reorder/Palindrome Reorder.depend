@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1606048038 source:d:\codeblok\cses problem set\palindrome reorder\main.cpp
+	<iostream>
+	<map>
+	<vector>
+	<list>
+

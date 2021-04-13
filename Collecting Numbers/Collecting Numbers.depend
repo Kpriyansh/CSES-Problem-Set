@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1610092089 source:d:\codeblok\cses problem set\collecting numbers\main.cpp
+	<iostream>
+	<set>
+	<vector>
+
